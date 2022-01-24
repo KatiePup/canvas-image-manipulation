@@ -1,4 +1,5 @@
-# t
+# Canvas Image Manipulation
+A library to perform *affine* transformations of images and overlay them.
 
 ## Project setup
 ```
